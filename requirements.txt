@@ -1,0 +1,6 @@
+FastAPI
+uvicorn
+httpx
+black
+ruff
+pytest
